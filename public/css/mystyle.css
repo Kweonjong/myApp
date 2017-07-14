@@ -1,0 +1,19 @@
+ #brand-color{
+                color:chartreuse;
+            }
+
+.img.centered{
+    position: relative;
+    left: 50;
+    -webkit-transform: translate(-50%,0);
+    -moz-transform: translate(-50%,0);
+    -o-transform: translate(-50%,0);
+    transform: translate(-50%,0);
+    
+}
+.img{
+    position: relative;
+}
+#title{
+    color: black;
+}
